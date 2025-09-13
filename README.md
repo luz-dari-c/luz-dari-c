@@ -2,9 +2,7 @@
 
 🎓 Estudiante de **Ingeniería de Sistemas** con énfasis en el **desarrollo backend**, trabajando con **Java, Spring Boot y bases de datos SQL**.  
 💻 También desarrollo en el área de **frontend**, utilizando **React, HTML y CSS** para construir aplicaciones completas y funcionales.  
-🚀 Comprometida con el aprendizaje continuo y la creación de soluciones tecnológicas eficientes.  
-
----
+🚀 Abierta a colaborar en proyectos donde pueda aportar mis habilidades y seguir creciendo profesionalmente
 
 ## 🛠️ Tecnologías que manejo  
 
