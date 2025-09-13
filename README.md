@@ -1,4 +1,4 @@
-# 👩‍💻 Luz Dari Crespo  
+<h1 align="center">👩‍💻 Luz Dari Crespo Gómez</h1>
 
 🎓 Estudiante de **Ingeniería de Sistemas** con énfasis en el **desarrollo backend**, trabajando con **Java, Spring Boot y bases de datos SQL**.  
 💻 También desarrollo en el área de **frontend**, utilizando **React, HTML y CSS** para construir aplicaciones completas y funcionales.  
